@@ -2,3 +2,4 @@ imaplib2
 jwt
 bs4
 rich
+cloudscraper
