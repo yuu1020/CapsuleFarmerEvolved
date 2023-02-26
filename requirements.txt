@@ -3,3 +3,4 @@ jwt
 bs4
 rich
 cloudscraper
+yaml
