@@ -1,7 +1,7 @@
 accounts:
-  os.environ['NAME']:
-    username: "os.environ['XUHAO']"
-    password: "os.environ['MIMA']"
+  6:
+    username: "${XUHAO}"
+    password: "${MIMA}"
   anotheraccountname:
     username: "username"
     password: "password"
