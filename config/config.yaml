@@ -1,7 +1,7 @@
 accounts:
   accountname:
-    username: "username"
-    password: "password"
+    username: "{XUHAO}"
+    password: "{MIMA}"
   anotheraccountname:
     username: "username"
     password: "password"
