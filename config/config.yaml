@@ -1,7 +1,7 @@
 accounts:
   6:
-    username: "${XUHAO}"
-    password: "${MIMA}"
+    username: "511608391"
+    password: "q511608391"
   anotheraccountname:
     username: "username"
     password: "password"
