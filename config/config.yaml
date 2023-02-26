@@ -1,5 +1,5 @@
 accounts:
-  accountname:
+  {NAME}:
     username: "{XUHAO}"
     password: "{MIMA}"
   anotheraccountname:
